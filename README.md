@@ -102,7 +102,7 @@ To install the mod you have two options:
 Either way, the end result is that you have `SomeMod` folder in the `Ostranauts/Mods` folder.
 The mod is now installed and ready to use.
 
-To verify this step, you can use the 'ModExample' mod bundled with this guide.
+To verify this part, you can use the 'ModExample' mod bundled with this guide (go to Releases and grab the latest `ModExample.zip`, make sure it corresponds to your Ostranauts vesion).
 This magnificent mod will turn every button in the main menu to appear as the 'BBG' button.
 Once you verified it works, uninstall the mod because it's useless.
 
