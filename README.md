@@ -132,7 +132,7 @@ Harmony is shipped with UMM so you can start patching straight away.
 
 Guides for Unity Mod Manager: https://wiki.nexusmods.com/index.php/Category:Unity_Mod_Manager
 
-Rimworld C# Modding tutorials: https://www.rimworldwiki.com/wiki/Modding_Tutorials#C.23_tutorials (note that Rimworld supports loading 3rd party assemblies, unlike Ostranauts)
+Rimworld C# Modding tutorials (note that Rimworld supports loading 3rd party assemblies, unlike Ostranauts): https://www.rimworldwiki.com/wiki/Modding_Tutorials#C.23_tutorials
 
 Harmony documentation: https://harmony.pardeike.net
 
