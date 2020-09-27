@@ -15,7 +15,7 @@ This guide is split into three parts:
 * [**Part 0: Unity Modding Primer**](#part-0-unity-modding-primer): Intended for those who know 0 about Unity, C# and modding
 * [**Part 1: Installing Unity Mod Manager**](#part-1-installing-unity-mod-manager): How to install & configure UMM
 * [**Part 2: Installing Mods**](#part-2-installing-mods): How to install an existing C# mod
-* [**Part 3: Making Your Own Mod**](#part-3-making-your-own-mods): How to make your own C# mod
+* [**Part 3: Making Your Own Mod**](#part-3-making-your-own-mod): How to make your own C# mod
 
 
 ## Part 0: Unity Modding Primer
