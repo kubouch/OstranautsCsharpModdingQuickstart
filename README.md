@@ -12,10 +12,10 @@ UMM already does that and I'm a C# noob, so I use it for convenience.
 *NOTE: I am not a C# programmer nor a native English speaker, so please correct me where I'm wrong and submit a pull request*
 
 This guide is split into three parts:
-* [**Part 0: Unity Modding Primer**](#unity-modding-primer): Intended for those who know 0 about Unity, C# and modding
-* [**Part 1: Installing Unity Mod Manager**](#installing-unity-mod-manager): How to install & configure UMM
-* [**Part 2: Installing Mods**](#installing-mods): How to install an existing C# mod
-* [**Part 3: Making Your Own Mod**](#making-your-own-mods): How to make your own C# mod
+* [**Part 0: Unity Modding Primer**](#part-0-unity-modding-primer): Intended for those who know 0 about Unity, C# and modding
+* [**Part 1: Installing Unity Mod Manager**](#part-1-installing-unity-mod-manager): How to install & configure UMM
+* [**Part 2: Installing Mods**](#part-2-installing-mods): How to install an existing C# mod
+* [**Part 3: Making Your Own Mod**](#part-3-making-your-own-mods): How to make your own C# mod
 
 
 ## Part 0: Unity Modding Primer
