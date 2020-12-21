@@ -28,7 +28,7 @@ Most likely, you want to load the `Assembly-Csharp.dll`.
 A lot of the data is already exposed and modifiable via json and image/audio files (you can find these in the `Ostranauts/Ostranauts_Data/Streaming_Assets` folder).
 You don't need C# to modify those, a text editor is enough.
 So it is worth looking into the files to see what you can do.
-For example replacing textures or adding items based on the existing ones is typically possible without touching the assemblies.
+For example, replacing textures or adding items based on the existing ones is typically possible without touching the assemblies.
 
 To modify the game's assembly you have two choices:
 1. Use a tool like dnSpy to edit and recompile the `Assembly-Csharp.dll`: This might be quick and convenient, however, it breaks the compatibility with other mods and you might get into legal trouble by redistributing the altered assembly so you probably shouldn't do that.
@@ -36,8 +36,9 @@ To modify the game's assembly you have two choices:
 
 By default, Ostranauts does not support loading any other assembly files than its own.
 [Doorstop](https://github.com/NeighTools/UnityDoorstop) is a tool used to hijack the Unity engine to execute a function within a 3rd party assembly.
-Using UMM, Doorstop executes the UMM loader and UMM then makes sure your assembly is loaded properly.
-Ensuring proper loading with just a plain Doorstop can be tricky (at least for my level of C# noobiness).
+Ensuring that the function is loaded properly with just plain Doorstop can be tricky (at least for my level of C# noobiness).
+[Unity Mod Manager (UMM)](https://www.nexusmods.com/site/mods/21) is a tool that takes care of that (among other things).
+Doorstop executes the UMM loader and UMM then makes sure your assembly is loaded properly.
 
 To modify the game's assembly, you can use [Harmony](https://harmony.pardeike.net) to create patches.
 Using Harmony has the advantage of being relatively user friendly and also supports multiple mods, merging their patches together.
